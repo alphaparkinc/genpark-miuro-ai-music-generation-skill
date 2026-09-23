@@ -1,0 +1,14 @@
+{
+  "name": "@alphapark/genpark-miuro-ai-music-generation-skill",
+  "version": "1.0.0",
+  "description": "GenPark AI Agent Skill - Miuro AI music synthesis, prompt-to-audio generation, HLS streaming playback, and multi-track audio pipeline.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "Apache-2.0",
+  "keywords": [
+    "genpark",
+    "miuro",
+    "agentic-skill",
+    "mcp"
+  ]
+}
